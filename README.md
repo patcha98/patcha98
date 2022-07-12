@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patcha98&layout=compact)](https://github.com/patcha98/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patcha98&show_icons=true&theme=radical)
 
 <!--
 **patcha98/patcha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
